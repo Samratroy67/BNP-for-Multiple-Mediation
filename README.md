@@ -1,2 +1,2 @@
 # BNP-for-Multiple-Mediation
-This repository describes the codes used for the data analysis for the paper namely, "A Bayesian nonparametric approach for multiple mediators with applications in mental health studies".
+This repository contains the codes used for obtaining the mediation effects for the data analysis section (section-6) of the paper, "A Bayesian nonparametric approach for multiple mediators with applications in mental health studies". The paper considers 6 potential mediators between the unintended pregnancies and the later life mental health of the women, and thus there will be 6 individual mediation effects and 15 pairwise mediation effects. 
